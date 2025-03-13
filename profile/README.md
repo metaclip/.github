@@ -4,7 +4,7 @@ The core [METACLIP ontologies](https://github.com/metaclip/ontologies) extend th
 
 METACLIP was used to define the provenance of the IPCC AR6 Interactive Atlas (see details [here](https://github.com/metaclip/IPCC-AR6-Atlas)). More info in the [METACLIP paper](https://doi.org/10.1016/j.envsoft.2019.07.005). 
 
-**Illustrative example: Subset from CMIP6** ([.jsonld](https://github.com/metaclip/.github/blob/main/profile/METACLIP-CMIP6-demo.jsonld) file)
+**Illustrative example:** Provenance for a subset from CMIP6 corresponding to daily maximum temperature from a single model (EC-Earth3-VEG-LR) for a particular run (r1i1p1f1) for a single scenario SSP370 ([.jsonld](https://github.com/metaclip/.github/blob/main/profile/METACLIP-CMIP6-demo.jsonld) file)
 
 ![METACLIP CMIP6 example](https://github.com/metaclip/.github/blob/main/profile/METACLIP-CMIP6-demo.png)
  
