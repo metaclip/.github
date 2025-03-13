@@ -1,3 +1,1 @@
-# Metaclip
-
-Welcome
+Metaclip is a ***
